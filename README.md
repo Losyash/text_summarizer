@@ -3,6 +3,6 @@
 
 Используется готовая модель Ильи Гусева:
 
-[модель](https://huggingface.co/IlyaGusev/rugpt3medium_sum_gazeta)
+[Модель](https://huggingface.co/IlyaGusev/rugpt3medium_sum_gazeta)
 
 
