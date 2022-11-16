@@ -1,8 +1,7 @@
 # Text summarizer
-Приложение для составлениюя саммари для текстов и газетный статей на русском языке.
 
-Используется готовая модель Ильи Гусева:
+Приложение для обобщения (краткого изложения) текстов на русском языке.
 
-[Модель](https://huggingface.co/IlyaGusev/rugpt3medium_sum_gazeta)
+Используется готовая [модель](https://huggingface.co/IlyaGusev/rugpt3medium_sum_gazeta) Ильи Гусева.
 
-
+Локальное тестирование проводилось в [conda](https://docs.conda.io/en/latest/).
