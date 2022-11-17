@@ -1,7 +1,7 @@
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-from texts.data import *
+from texts.data import article_text
 
 
 model_name = "IlyaGusev/rugpt3medium_sum_gazeta"

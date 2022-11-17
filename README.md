@@ -4,4 +4,4 @@
 
 Используется готовая [модель](https://huggingface.co/IlyaGusev/rugpt3medium_sum_gazeta) Ильи Гусева.
 
-Локальное тестирование проводилось в [conda](https://docs.conda.io/en/latest/).
+Локальное тестирование проводилось в [conda](https://docs.conda.io/en/latest/) и [venv](https://docs.python.org/3/tutorial/venv.html).
