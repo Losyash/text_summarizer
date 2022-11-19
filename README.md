@@ -1,7 +1,7 @@
-# Text summarizer
+#### Приложение для аннотирования текстов на русском языке на основе [модели](https://huggingface.co/IlyaGusev/rugpt3medium_sum_gazeta) Ильи Гусева.
 
-Приложение для аннотирования текстов на русском языке.
+Используются библиотеки:
+- [Huggingface](https://huggingface.co/)
+- [Pytorch](https://pytorch.org/)
 
-Используется готовая [модель](https://huggingface.co/IlyaGusev/rugpt3medium_sum_gazeta) Ильи Гусева.
-
-Локальное тестирование проводилось в [conda](https://docs.conda.io/en/latest/) и [venv](https://docs.python.org/3/tutorial/venv.html).
+Тестирование проводилось в [conda](https://docs.conda.io/en/latest/).
