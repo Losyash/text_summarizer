@@ -1,6 +1,6 @@
 ### Приложение для аннотирования текстов на русском языке на основе [модели](https://huggingface.co/IlyaGusev/rugpt3medium_sum_gazeta) Ильи Гусева.
 
-Используются библиотеки:
+#### 1. Основные используемые библиотеки
 - [Huggingface](https://huggingface.co/)
 - [Pytorch](https://pytorch.org/)
 
